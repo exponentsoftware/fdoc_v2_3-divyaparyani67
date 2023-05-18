@@ -37,6 +37,7 @@ processCompanies(companies);
    
    b. `assignTaskToEmployee` - Assigns a task with a specified title to an employee with a given name, only if the employee and task exist.
    
+   
    c. `updateTaskStatus` - Updates a task's status in a specified project only if the task and project exist. This function should be able to update the task's status.
 
 ```js
